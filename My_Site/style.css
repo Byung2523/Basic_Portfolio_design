@@ -1,0 +1,152 @@
+body {
+	color: #40514e;
+	margin: 0;
+	text-align: center;
+	font-family: 'Merriweather', serif;
+}
+
+h1 {
+	font-size: 4.375em;
+	color: #66BFBF;
+	margin: 50px auto 30px auto;
+	font-family: 'Sacramento', cursive;
+}
+
+h2 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 2rem;
+	color: #66BFBF;
+	font-weight: normal;
+	line-height: 4px;
+	padding-bottom: 30px;
+}
+
+h3 {
+	font-family: 'Montserrat', sans-serif;
+	color: #11999E;
+	font-weight: bold;
+}
+
+p {
+	line-height: 2;
+}
+
+.intro {
+	width: 30%;
+	margin: auto;
+}
+
+.contact-message {
+	width: 40%;
+	margin: 40px auto 60px;
+}
+
+.period-line {
+	margin: 100px auto;
+	font-size: 2.5rem;
+	letter-spacing: -4px;
+	opacity: 20%;
+}
+
+.self-photo {
+	border-radius: 200px;
+	padding-bottom: 20px; 
+}
+
+.computer-img {
+	width: 17%;
+	float: left;
+	margin: 8px 30px 0 0;
+}
+
+.soccer-img {
+	width: 15%;
+	float: right;
+	margin-left: 30px;
+}
+
+.top-cloud {
+	position: absolute;
+	right: 100px;
+	top: 50px;
+}
+
+.bottom-cloud {
+	position: absolute;
+	left: 105px;
+	bottom: 300px;
+}
+
+.top-container {
+	background-color: #EAF6F6;
+	position: relative;
+	padding-top: 100px;
+}
+
+.middle-container {
+	margin: 100px 0;
+}
+
+.bottom-container {
+	background-color: #66BFBF;
+	padding: 40px 0;
+
+}
+
+.profile {
+}
+
+.skill-row {
+	width: 50%;
+	margin: 100px auto;
+	text-align: left;
+}
+
+
+.contact-me {
+	margin: 85px 0;
+}
+
+
+.btn {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: white;
+	text-decoration: none;
+	background: #20DFE6;
+	background-image: linear-gradient(#20DFE6, #0D8286);
+	border-radius: 10px;
+	padding: 7px;
+}
+
+.btn:hover {
+	background-image: linear-gradient(#0D8286, #20DFE6);
+	cursor: pointer;
+}
+
+.nav-footer a {
+	font-family: 'Montserrat', sans-serif;
+	margin: 10px 20px;
+	font-size: 13px;
+	text-decoration: none;
+}
+
+.nav-footer a:link {
+	color: #1F8489; 
+}
+
+.nav-footer a:visited {
+	color: #1F8489; 
+}
+
+.nav-footer a:hover {
+	color: #FDF469;
+	text-decoration: underline; 
+}
+
+.nav-footer p {
+	color: white;
+	font-size: 0.75rem;
+	margin-top: 30px;
+}
